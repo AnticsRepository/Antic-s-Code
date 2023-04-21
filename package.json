@@ -60,7 +60,7 @@
     "@angular-devkit/architect": ">= 0.900 < 0.1100",
     "@angular-devkit/build-angular": "^0.1100.4",
     "@angular-eslint/eslint-plugin": "^0.8.0-beta.5",
-    "@angular/cli": "^11.0.4",
+    "@angular/cli": "^11.2.19",
     "@angular/compiler-cli": "~11.0.4",
     "@angular/language-service": "~11.0.4",
     "@types/aos": "^3.0.3",
